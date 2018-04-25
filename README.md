@@ -1,2 +1,2 @@
-# informatiz.github.io
+# http://informatiz.github.io
 pde.co.mz
